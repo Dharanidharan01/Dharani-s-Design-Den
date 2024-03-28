@@ -262,16 +262,30 @@
                         <div class="col-lg-5">
                             <div class="about-image-part wow fadeInUp delay-0-3s">
                                 <img src="assets/images/about/about.png" alt="About Me">
-                                <div class="about-btn btn-one wow fadeInRight delay-0-4s">
+                                <div class="about-btn btn-one wow fadeInRight delay-0-4s" onclick="redirectToGitHub()" style="cursor: pointer;">
                                     <img src="assets/images/about/btn-image1.png" alt="Image">
-                                    <h6>Experience Designer</h6>
+                                    <h6>View projects on Github</h6>
                                     <i class="fas fa-arrow-right"></i>
                                 </div>
-                                <div class="about-btn btn-two wow fadeInRight delay-0-5s">
+                                
+                                
+                                <script>
+                                    function redirectToGitHub() {
+                                        window.location.href = "https://github.com/Dharanidharan01";
+                                    }
+                                </script>
+                                <div class="about-btn btn-two wow fadeInRight delay-0-5s" onclick="redirectToLinkedin()" style="cursor: pointer;">
                                     <img src="assets/images/about/btn-image2.png" alt="Image">
-                                    <h6>Proficient Dev</h6>
+                                    <h6>Visit on Linkedin</h6>
                                     <i class="fas fa-arrow-right"></i>
                                 </div>
+                                
+                                <script>
+                                    function redirectToLinkedin() {
+                                        window.location.href = "https://www.linkedin.com/in/dharanidharans/";
+                                    }
+                                </script>
+                                
                                 
                                 <div class="dot-shape">
                                     <img src="assets/images/shape/about-dot.png" alt="Shape">
@@ -921,10 +935,10 @@
                                         <a class="tag" href="blog.html">Visit Medium</a>
                                        <!--  <a class="tag" href="blog.html">Figma</a> -->
                                     </div>
-                                    <h5><a href="blog-details.html">Tips For Conductin See Usability Studies</a></h5>
+                                    <h5><a href="blog-details.html">Coloring Emotions: The Psychology of Color in Design</a></h5>
                                     <hr>
                                     <div class="blog-meta mt-35">
-                                        <a class="date" href="#"><i class="far fa-calendar-alt"></i> September 25, 2023</a>
+                                        <a class="date" href="#"><i class="far fa-calendar-alt"></i> December 27, 2023</a>
                                     </div>
                                 </div>
                             </div>
@@ -939,7 +953,7 @@
                                         <a class="tag" href="https://medium.com/@dharanidharans175/the-human-side-of-design-empathy-in-user-centered-design-6e1b3ea934c3">Visit Medium</a>
                                         <!--  <a class="tag" href="blog.html">Figma</a> -->
                                     </div>
-                                    <h5><a href="blog-details.html">Keyboard-Only Suppor Assistive Technology</a></h5>
+                                    <h5><a href="blog-details.html">The Human Side of Design: Empathy in User-Centered Design</a></h5>
                                     <hr>
                                     <div class="blog-meta mt-35">
                                         <a class="date" href="#"><i class="far fa-calendar-alt"></i> September 25, 2023</a>
@@ -960,7 +974,7 @@
         </section>
         <!-- Blog Area end -->
         
-        <!-- Client Log start -->
+        <!-- Client Log start 
         <div class="client-logo-area rel z-1 pt-130 rpt-100 pb-60">
             <div class="container">
                 <div class="row justify-content-center">
@@ -1011,7 +1025,7 @@
                <span></span><span></span>
             </div>
         </div>
-        <!-- Client Log end -->
+       Client Log end -->
         
         
         <!-- footer area start -->
