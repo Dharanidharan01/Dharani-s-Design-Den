@@ -37,7 +37,13 @@ Hello, I'm Dharanidharan, a passionate web designer and developer. I specialize 
 - Contact
 
 ## Project Structure
-
+404.html  
+blog.html  
+index.html  
+indexonepage.html  
+project-detail.html  
+projects.html Dev 4  
+services.html Dev 4  
 
 ## Installation
 
