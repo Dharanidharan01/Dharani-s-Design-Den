@@ -6,7 +6,7 @@ Welcome to my portfolio repository! This repository contains the code for my per
 
 Hello, I'm Dharanidharan, a passionate web designer and developer. I specialize in crafting stunning user experiences and functional websites. Let's collaborate to make the web a more beautiful and functional place, one line of code at a time.
 
-- **Hire Me**: [Contact Me](#contact)
+- **Hire Me**: [Contact Me](https://www.linkedin.com/in/dharanidharan-s-235104227/)
 - **Download Resume**: [Resume](https://drive.google.com/file/d/1bTiP_uECzHPsLsv6VAlcypUkRiiG8S1W/view?usp=sharing)
 
 ## Experience
