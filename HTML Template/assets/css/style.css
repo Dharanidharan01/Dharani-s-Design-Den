@@ -3816,7 +3816,7 @@ h6, .h6 {
     background: var(--primary-color); }
     @media only screen and (min-width: 576px) {
       .hero-area-two .author-image-part .bg-circle {
-        width: 485px;
+        width: 100%px;
         height: 485px; } }
     @media only screen and (max-width: 479px) {
       .hero-area-two .author-image-part .bg-circle {
